@@ -1,3 +1,6 @@
+# Mahshidsadat Khatami - 7072659
+# Omkar Sanjay Dod - 7072990
+
 set.seed(42)
 library(dplyr)
 # library(spatstat.core)
